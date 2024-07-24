@@ -1,16 +1,29 @@
-# questionario
+# Harry Potter Quiz App
 
-My First App in Flutter!
+# Overview
+This is my first Flutter application developed as part of a Udemy course on Flutter development. The app is a simple questionnaire about Harry Potter, created just for fun. The answers are based on my own opinions. The goal of this project was to help me learn the basics of Flutter and mobile app development for both iOS and Android platforms.
 
-## Getting Started
+# Features
+Simple Questionnaire: A fun quiz with questions related to Harry Potter.
+User Interaction: Users can interact with the app by answering questions.
+Opinion-Based Answers: The correct answers are based on my personal opinions.
+What I Learned
 
-This project is a starting point for a Flutter application.
+In this project, I covered the foundational topics of Flutter development, including:
 
-A few resources to get you started if this is your first Flutter project:
+Project Creation: Setting up a new Flutter project.
+Project Structure: Understanding the structure of a Flutter project.
+Widgets: Learning about various Flutter widgets and how to use them.
+Screen Design: Designing simple screens using Flutter's layout system.
+User Interaction: Implementing user interactions and handling user input.
+Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Prerequisites
+Flutter SDK
+Android Studio or Visual Studio Code (with Flutter and Dart plugins)
+A connected device or emulator for testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Launch the app on your device or emulator.
+Enjoy the quiz and see how your opinions match up!
+
+This is a personal learning project, but feel free to open issues or suggest improvements.
